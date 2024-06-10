@@ -7,7 +7,6 @@
 - [How It Works](#how-it-works)
 - [Tech Stack](#tech-stack)
 - [Contributors](#contributors)
-- [Team bh.AI](#team-bhai)
 
 
 ## Inspiration
@@ -87,8 +86,4 @@ bh.AI is built using Flutter for the frontend, Flask for the backend, Mistral AI
 ### Shubham Kanekal
 - GitHub: [Shubham Kanekal](https://github.com/shubhamk10)
 - Work: Worked on image analysis using DeepFace, combined chat and image data for querying Mistral, and integrated Flask and Mistral.
-
-## Team bh.AI
-
-<img width="954" alt="Screenshot 2024-02-19 at 3 18 57 PM" src="https://github.com/Akatsuki49/bh.AI/assets/110471762/63aa7f03-e750-40c5-89dd-5571e0431c1f">
 
